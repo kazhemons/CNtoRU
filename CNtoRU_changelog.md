@@ -16,4 +16,3 @@ https://raw.githubusercontent.com/kazhemons/CNtoRU/main/Logo.png
 - Mi Mover
 - Прочие мелкие правки
 
-<a href=" https://t.me/mgCNtoRU"><img src="https://img.shields.io/badge/Telegram-Channel-blue?longCache=true&style=flat"> </a>
