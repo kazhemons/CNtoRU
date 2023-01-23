@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/kazhemons/CNtoRU/main/Logo.png
+<img src="https://raw.githubusercontent.com/kazhemons/CNtoRU/main/Logo.png">
 
 ## 23.01.2023 ##
 
