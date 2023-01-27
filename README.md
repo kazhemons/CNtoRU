@@ -3,14 +3,14 @@
 ## Модуль магиск для перевода Official MIUI 13\14 на базе Android 12\13 на Русский\Украинский языки! ##
 
 ***Особености модуля:***
-- Не патчит симстемные APK, а значит можно обновить любое системное приложение без замены его в системе
+- Не патчит системные APK, а значит можно обновить любое системное приложение без замены его в системе
 - Не изменяет настроек, которые могли бы повлиять на производительность или на заряд устройства
 
 **Для связи**
 
-Канал: <a href="https://t.me/magiskCNtoRU"><img src="https://img.shields.io/badge/Telegram-Channel-blue?longCache=true&style=flat"> </a>
+*Канал:* <a href="https://t.me/magiskCNtoRU"><img src="https://img.shields.io/badge/Telegram-Channel-blue?longCache=true&style=flat"> </a>
 
-Группа: <a href="https://t.me/mgCNtoRU"><img src="https://img.shields.io/badge/Telegram-Group-blue?longCache=true&style=flat"> </a>
+*Группа:* <a href="https://t.me/mgCNtoRU"><img src="https://img.shields.io/badge/Telegram-Group-blue?longCache=true&style=flat"> </a>
 
 Поддержать проэкт:  https://www.donationalerts.com/r/miuihelp
 
