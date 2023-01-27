@@ -10,7 +10,7 @@
 
 Канал: <a href="https://t.me/magiskCNtoRU"><img src="https://img.shields.io/badge/Telegram-Channel-blue?longCache=true&style=flat"> </a>
 
-Группа: <a href="https://t.me/mgCNtoRU"><img src="https://img.shields.io/badge/Telegram-Channel-blue?longCache=true&style=flat"> </a>
+Группа: <a href="https://t.me/mgCNtoRU"><img src="https://img.shields.io/badge/Telegram-Group-blue?longCache=true&style=flat"> </a>
 
 Поддержать проэкт:  https://www.donationalerts.com/r/miuihelp
 
