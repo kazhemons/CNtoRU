@@ -16,4 +16,4 @@
 
 ![Watchers](https://img.shields.io/github/watchers/kazhemons/CNtoRU?label=Посещений&style=FOR-THE-BADGE)
 
-![Release](https://img.shields.io/github/downloads/kazhemons/CNtoRU/latest/total?label=Скачиваний%20%28Последний%20Релиз%29&style=plastic)
+![Release](https://img.shields.io/github/downloads/kazhemons/CNtoRU/latest/total?label=Скачиваний%20%28Последний%20Релиз%29&style=social)
