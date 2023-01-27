@@ -8,12 +8,12 @@
 
 **Для связи**
 
-*Канал:* <a href="https://t.me/magiskCNtoRU"><img src="https://img.shields.io/badge/Telegram-Channel-blue?longCache=true&style=flat"> </a>
+*Канал:* <a href="https://t.me/magiskCNtoRU"><img src="https://img.shields.io/badge/Telegram-Канал-blue?longCache=true&style=flat"> </a>
 
-*Группа:* <a href="https://t.me/mgCNtoRU"><img src="https://img.shields.io/badge/Telegram-Group-blue?longCache=true&style=flat"> </a>
+*Группа:* <a href="https://t.me/mgCNtoRU"><img src="https://img.shields.io/badge/Telegram-Группа-blue?longCache=true&style=flat"> </a>
 
 Поддержать проэкт:  https://www.donationalerts.com/r/miuihelp
 
-![Watchers](https://img.shields.io/github/watchers/kazhemons/CNtoRU?label=Visitors&style=FOR-THE-BADGE)
+![Watchers](https://img.shields.io/github/watchers/kazhemons/CNtoRU?label=Посещений&style=FOR-THE-BADGE)
 
-![Release](https://img.shields.io/github/downloads/kazhemons/CNtoRU/latest/total?label=Downloads%20%28Latest%20Release%29&style=plastic)
+![Release](https://img.shields.io/github/downloads/kazhemons/CNtoRU/latest/total?label=Скачиваний%20%28Последний%20Релиз%29&style=plastic)
