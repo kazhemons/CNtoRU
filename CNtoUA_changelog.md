@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/kazhemons/CNtoRU/main/img/Logo.png">
 
-## 29.01.2023 ##
+## 03.02.2023 ##
 
 **Версия модуля**: **1.2**
 
