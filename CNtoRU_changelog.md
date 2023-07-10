@@ -18,7 +18,5 @@
  ✅ Частые фразы
  ✅ AOD
  ✅ Проводник
- ✅ Mi Cloud Sync
- ✅ Mi Account
  ✅ Joyose
  ✅ System UI
