@@ -1,20 +1,21 @@
 <img src="https://raw.githubusercontent.com/kazhemons/CNtoRU/main/img/Logo.png">
 
-## 25.08.2023 ##
+## 26.08.2023 ##
 
 **Версия модуля**: **2.8.4**
 
 ***Что нового:***
 - Модуль поддерживает только Русский
-- Перевод функций для Fold + PAD
+- Перевод функций для Android 14
 
 ***Изменения:***
 - Исправление перевода
 - Доперевод: 
- ✅ Бекап
- ✅ Security Core (много нового)
- ✅ Облачные сервисы
- ✅ AI переводчик
- ✅ Ввод MIUI
+ ✅ Настройки
+ ✅ System UI
+ ✅ Framework-res
+ ✅ Framework-ext-res
+ 
+
 
 
