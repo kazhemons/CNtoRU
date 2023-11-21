@@ -1,6 +1,6 @@
 {
-	"version": "3.0",
-	"versionCode": "3000",
-	"zipUrl": "https://github.com/kazhemons/CNtoRU/releases/download/HyperOS_1.2_RU/MIUI.13_14_HyperOS_RU.3.0.zip",
+	"version": "3.1",
+	"versionCode": "3100",
+	"zipUrl": "https://github.com/kazhemons/CNtoRU/releases/download/HyperOS_1.3_RU/MIUI.13_14_HyperOS_RU.3.1.zip",
 	"changelog": "https://raw.githubusercontent.com/kazhemons/CNtoRU/main/CNtoRU_changelog.md"
 }
