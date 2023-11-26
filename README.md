@@ -37,6 +37,3 @@
 
 <a href="https://www.donationalerts.com/r/miuihelp"><img src="https://img.shields.io/badge/DonationAlerts-Поддержать-green?longCache=true&style=flat"> </a>
 
-![Watchers](https://img.shields.io/github/watchers/kazhemons/CNtoRU?label=Посещений&style=FOR-THE-BADGE)
-
-![Release](https://img.shields.io/github/downloads/kazhemons/CNtoRU/latest/total?label=Скачиваний%20%28Последний%20Релиз%29&style=social)![All Releases](https://img.shields.io/github/downloads/kazhemons/CNtoRU/total?label=Скачиваний%20%28Все%20релизы%29&style=social) 
