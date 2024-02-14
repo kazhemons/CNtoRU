@@ -20,8 +20,6 @@
 2. Ссылки на подержку проекта
 https://miui-help.diaka.ua/donate - для Украины
 
-https://www.donationalerts.com/r/miuihelp - для РФ
-
 4. Скриншот об оплате минимального доната или любая сумма.
 
 5. Написать в личные сообщения [@tomhenson](https://t.me/TomHenson) со скриншотом и какой перевод(модуль) нужен.
